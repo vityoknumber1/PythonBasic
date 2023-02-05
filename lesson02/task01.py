@@ -7,4 +7,4 @@ result = num_a % num_p
 
 print(f"Number of apples for each pupil: {res_of_div}")
 
-print(f"Number of offer: {result}")
+print(f"Number of remainder: {result}")
