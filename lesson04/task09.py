@@ -1,7 +1,7 @@
 #Рядок та зрізи
 
 str = input("Enter a string: ")
-print("String:",str)
+print("String:", str)
 
 print("Third symbol:", str[2])
 print("Second last symbol:", str[-2])
